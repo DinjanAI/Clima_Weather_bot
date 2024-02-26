@@ -20,7 +20,7 @@ To use Clima, follow these steps:
 
 1. Start a conversation with the Clima bot on Telegram.
 2. Use the `/weather` command to initiate weather updates.
-3. Follow the bot's guidance to enter your location.
+3. Follow the bot's guidance to enter your location. Make sure the entered location spelling is correct.
 4. Receive a formatted message with the latest weather information for your location.
 
 ## Installation

@@ -31,3 +31,8 @@ To run Clima locally or deploy it to your own server, follow these steps:
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Obtain an API key from OpenWeatherMap by signing up at [OpenWeatherMap](https://openweathermap.org/api) and replace `YOUR_API_KEY` in the `config.py` file with your API key.
 4. Run the bot using `python Clima_5.py`.
+
+## Output
+[Result](https://github.com/DinjanAI/Clima_Weather_bot/assets/159764677/5c335554-1c11-4144-85fa-18197776a904)
+
+

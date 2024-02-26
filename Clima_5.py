@@ -5,8 +5,8 @@ from geopy.geocoders import Nominatim
 
 
 # Define bot and weather API tokens
-BOT_TOKEN = '6479158304:AAHT_QqZV9HioYRDnOzmuYyr-W6mnWsn-_c'
-WEATHER_TOKEN = 'ad7d96dfabcb750181f1d452d65da257'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
+WEATHER_TOKEN = 'YOUR_WEATHER_TOKEN'
 POLLING_TIMEOUT = None
 bot = telebot.TeleBot(BOT_TOKEN)
 
